@@ -211,12 +211,14 @@
 
 
 
-- [https://github.com/maviroxz/CVE-2016-8776](https://github.com/maviroxz/CVE-2016-8776) :  ![starts](https://img.shields.io/github/stars/maviroxz/CVE-2016-8776.svg) ![forks](https://img.shields.io/github/forks/maviroxz/CVE-2016-8776.svg)
+- [https://github.com/rerugan/CVE-2016-8776](https://github.com/rerugan/CVE-2016-8776) :  ![starts](https://img.shields.io/github/stars/rerugan/CVE-2016-8776.svg) ![forks](https://img.shields.io/github/forks/rerugan/CVE-2016-8776.svg)
 
 ## CVE-2016-8740
  The mod_http2 module in the Apache HTTP Server 2.4.17 through 2.4.23, when the Protocols configuration includes h2 or h2c, does not restrict request-header length, which allows remote attackers to cause a denial of service (memory consumption) via crafted CONTINUATION frames in an HTTP/2 request.
 
 
+
+- [https://github.com/jptr218/apachedos](https://github.com/jptr218/apachedos) :  ![starts](https://img.shields.io/github/stars/jptr218/apachedos.svg) ![forks](https://img.shields.io/github/forks/jptr218/apachedos.svg)
 
 - [https://github.com/lcfpadilha/mac0352-ep4](https://github.com/lcfpadilha/mac0352-ep4) :  ![starts](https://img.shields.io/github/stars/lcfpadilha/mac0352-ep4.svg) ![forks](https://img.shields.io/github/forks/lcfpadilha/mac0352-ep4.svg)
 
@@ -654,17 +656,17 @@
 
 - [https://github.com/whu-enjoy/CVE-2016-5195](https://github.com/whu-enjoy/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/whu-enjoy/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/whu-enjoy/CVE-2016-5195.svg)
 
-- [https://github.com/sideeffect42/DirtyCOWTester](https://github.com/sideeffect42/DirtyCOWTester) :  ![starts](https://img.shields.io/github/stars/sideeffect42/DirtyCOWTester.svg) ![forks](https://img.shields.io/github/forks/sideeffect42/DirtyCOWTester.svg)
-
 - [https://github.com/oleg-fiksel/ansible_CVE-2016-5195_check](https://github.com/oleg-fiksel/ansible_CVE-2016-5195_check) :  ![starts](https://img.shields.io/github/stars/oleg-fiksel/ansible_CVE-2016-5195_check.svg) ![forks](https://img.shields.io/github/forks/oleg-fiksel/ansible_CVE-2016-5195_check.svg)
+
+- [https://github.com/sideeffect42/DirtyCOWTester](https://github.com/sideeffect42/DirtyCOWTester) :  ![starts](https://img.shields.io/github/stars/sideeffect42/DirtyCOWTester.svg) ![forks](https://img.shields.io/github/forks/sideeffect42/DirtyCOWTester.svg)
 
 - [https://github.com/martinmullins/amazon_remove_ads_apk](https://github.com/martinmullins/amazon_remove_ads_apk) :  ![starts](https://img.shields.io/github/stars/martinmullins/amazon_remove_ads_apk.svg) ![forks](https://img.shields.io/github/forks/martinmullins/amazon_remove_ads_apk.svg)
 
 - [https://github.com/imust6226/dirtcow](https://github.com/imust6226/dirtcow) :  ![starts](https://img.shields.io/github/stars/imust6226/dirtcow.svg) ![forks](https://img.shields.io/github/forks/imust6226/dirtcow.svg)
 
-- [https://github.com/jas502n/CVE-2016-5195](https://github.com/jas502n/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/jas502n/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/jas502n/CVE-2016-5195.svg)
-
 - [https://github.com/droidvoider/dirtycow-replacer](https://github.com/droidvoider/dirtycow-replacer) :  ![starts](https://img.shields.io/github/stars/droidvoider/dirtycow-replacer.svg) ![forks](https://img.shields.io/github/forks/droidvoider/dirtycow-replacer.svg)
+
+- [https://github.com/jas502n/CVE-2016-5195](https://github.com/jas502n/CVE-2016-5195) :  ![starts](https://img.shields.io/github/stars/jas502n/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/jas502n/CVE-2016-5195.svg)
 
 - [https://github.com/esc0rtd3w/org.cowpoop.moooooo](https://github.com/esc0rtd3w/org.cowpoop.moooooo) :  ![starts](https://img.shields.io/github/stars/esc0rtd3w/org.cowpoop.moooooo.svg) ![forks](https://img.shields.io/github/forks/esc0rtd3w/org.cowpoop.moooooo.svg)
 
@@ -740,9 +742,9 @@
 
 - [https://github.com/BlueCocoa/CVE-2016-4971](https://github.com/BlueCocoa/CVE-2016-4971) :  ![starts](https://img.shields.io/github/stars/BlueCocoa/CVE-2016-4971.svg) ![forks](https://img.shields.io/github/forks/BlueCocoa/CVE-2016-4971.svg)
 
-- [https://github.com/mbadanoiu/CVE-2016-4971](https://github.com/mbadanoiu/CVE-2016-4971) :  ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2016-4971.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2016-4971.svg)
-
 - [https://github.com/gitcollect/CVE-2016-4971](https://github.com/gitcollect/CVE-2016-4971) :  ![starts](https://img.shields.io/github/stars/gitcollect/CVE-2016-4971.svg) ![forks](https://img.shields.io/github/forks/gitcollect/CVE-2016-4971.svg)
+
+- [https://github.com/mbadanoiu/CVE-2016-4971](https://github.com/mbadanoiu/CVE-2016-4971) :  ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2016-4971.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2016-4971.svg)
 
 - [https://github.com/dinidhu96/IT19013756_-CVE-2016-4971-](https://github.com/dinidhu96/IT19013756_-CVE-2016-4971-) :  ![starts](https://img.shields.io/github/stars/dinidhu96/IT19013756_-CVE-2016-4971-.svg) ![forks](https://img.shields.io/github/forks/dinidhu96/IT19013756_-CVE-2016-4971-.svg)
 
@@ -783,9 +785,9 @@
 
 - [https://github.com/Traiver/CVE-2016-4657-Switch-Browser-Binary](https://github.com/Traiver/CVE-2016-4657-Switch-Browser-Binary) :  ![starts](https://img.shields.io/github/stars/Traiver/CVE-2016-4657-Switch-Browser-Binary.svg) ![forks](https://img.shields.io/github/forks/Traiver/CVE-2016-4657-Switch-Browser-Binary.svg)
 
-- [https://github.com/Mimoja/CVE-2016-4657-NintendoSwitch](https://github.com/Mimoja/CVE-2016-4657-NintendoSwitch) :  ![starts](https://img.shields.io/github/stars/Mimoja/CVE-2016-4657-NintendoSwitch.svg) ![forks](https://img.shields.io/github/forks/Mimoja/CVE-2016-4657-NintendoSwitch.svg)
-
 - [https://github.com/vigneshyaadav27/webkit-vulnerability](https://github.com/vigneshyaadav27/webkit-vulnerability) :  ![starts](https://img.shields.io/github/stars/vigneshyaadav27/webkit-vulnerability.svg) ![forks](https://img.shields.io/github/forks/vigneshyaadav27/webkit-vulnerability.svg)
+
+- [https://github.com/Mimoja/CVE-2016-4657-NintendoSwitch](https://github.com/Mimoja/CVE-2016-4657-NintendoSwitch) :  ![starts](https://img.shields.io/github/stars/Mimoja/CVE-2016-4657-NintendoSwitch.svg) ![forks](https://img.shields.io/github/forks/Mimoja/CVE-2016-4657-NintendoSwitch.svg)
 
 ## CVE-2016-4656
  The kernel in Apple iOS before 9.3.5 allows attackers to execute arbitrary code in a privileged context or cause a denial of service (memory corruption) via a crafted app.
@@ -824,6 +826,13 @@
 - [https://github.com/saelo/jscpwn](https://github.com/saelo/jscpwn) :  ![starts](https://img.shields.io/github/stars/saelo/jscpwn.svg) ![forks](https://img.shields.io/github/forks/saelo/jscpwn.svg)
 
 - [https://github.com/hdbreaker/WebKit-CVE-2016-4622](https://github.com/hdbreaker/WebKit-CVE-2016-4622) :  ![starts](https://img.shields.io/github/stars/hdbreaker/WebKit-CVE-2016-4622.svg) ![forks](https://img.shields.io/github/forks/hdbreaker/WebKit-CVE-2016-4622.svg)
+
+## CVE-2016-4529
+ An unspecified ActiveX control in Schneider Electric SoMachine HVAC Programming Software for M171/M172 Controllers before 2.1.0 allows remote attackers to execute arbitrary code via unknown vectors, related to the INTERFACESAFE_FOR_UNTRUSTED_CALLER (aka safe for scripting) flag.
+
+
+
+- [https://github.com/AlAIAL90/CVE-2016-4529](https://github.com/AlAIAL90/CVE-2016-4529) :  ![starts](https://img.shields.io/github/stars/AlAIAL90/CVE-2016-4529.svg) ![forks](https://img.shields.io/github/forks/AlAIAL90/CVE-2016-4529.svg)
 
 ## CVE-2016-4468
  SQL injection vulnerability in Pivotal Cloud Foundry (PCF) before 238; UAA 2.x before 2.7.4.4, 3.x before 3.3.0.2, and 3.4.x before 3.4.1; UAA BOSH before 11.2 and 12.x before 12.2; Elastic Runtime before 1.6.29 and 1.7.x before 1.7.7; and Ops Manager 1.7.x before 1.7.8 allows remote authenticated users to execute arbitrary SQL commands via unspecified vectors.
@@ -928,9 +937,9 @@
 
 - [https://github.com/Hood3dRob1n/CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714) :  ![starts](https://img.shields.io/github/stars/Hood3dRob1n/CVE-2016-3714.svg) ![forks](https://img.shields.io/github/forks/Hood3dRob1n/CVE-2016-3714.svg)
 
-- [https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell](https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell) :  ![starts](https://img.shields.io/github/stars/jpeanut/ImageTragick-CVE-2016-3714-RShell.svg) ![forks](https://img.shields.io/github/forks/jpeanut/ImageTragick-CVE-2016-3714-RShell.svg)
-
 - [https://github.com/shelld3v/RCE-python-oneliner-payload](https://github.com/shelld3v/RCE-python-oneliner-payload) :  ![starts](https://img.shields.io/github/stars/shelld3v/RCE-python-oneliner-payload.svg) ![forks](https://img.shields.io/github/forks/shelld3v/RCE-python-oneliner-payload.svg)
+
+- [https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell](https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell) :  ![starts](https://img.shields.io/github/stars/jpeanut/ImageTragick-CVE-2016-3714-RShell.svg) ![forks](https://img.shields.io/github/forks/jpeanut/ImageTragick-CVE-2016-3714-RShell.svg)
 
 - [https://github.com/mike-williams/imagetragick-poc](https://github.com/mike-williams/imagetragick-poc) :  ![starts](https://img.shields.io/github/stars/mike-williams/imagetragick-poc.svg) ![forks](https://img.shields.io/github/forks/mike-williams/imagetragick-poc.svg)
 
@@ -1148,8 +1157,6 @@
 
 - [https://github.com/FiloSottile/CVE-2016-2107](https://github.com/FiloSottile/CVE-2016-2107) :  ![starts](https://img.shields.io/github/stars/FiloSottile/CVE-2016-2107.svg) ![forks](https://img.shields.io/github/forks/FiloSottile/CVE-2016-2107.svg)
 
-- [https://github.com/tmiklas/docker-cve-2016-2107](https://github.com/tmiklas/docker-cve-2016-2107) :  ![starts](https://img.shields.io/github/stars/tmiklas/docker-cve-2016-2107.svg) ![forks](https://img.shields.io/github/forks/tmiklas/docker-cve-2016-2107.svg)
-
 ## CVE-2016-2098
  Action Pack in Ruby on Rails before 3.2.22.2, 4.x before 4.1.14.2, and 4.2.x before 4.2.5.2 allows remote attackers to execute arbitrary Ruby code by leveraging an application's unrestricted use of the render method.
 
@@ -1167,9 +1174,9 @@
 
 - [https://github.com/danielhemmati/CVE-2016-2098-my-first-exploit](https://github.com/danielhemmati/CVE-2016-2098-my-first-exploit) :  ![starts](https://img.shields.io/github/stars/danielhemmati/CVE-2016-2098-my-first-exploit.svg) ![forks](https://img.shields.io/github/forks/danielhemmati/CVE-2016-2098-my-first-exploit.svg)
 
-- [https://github.com/Debalinax64/CVE-2016-2098](https://github.com/Debalinax64/CVE-2016-2098) :  ![starts](https://img.shields.io/github/stars/Debalinax64/CVE-2016-2098.svg) ![forks](https://img.shields.io/github/forks/Debalinax64/CVE-2016-2098.svg)
-
 - [https://github.com/3rg1s/CVE-2016-2098](https://github.com/3rg1s/CVE-2016-2098) :  ![starts](https://img.shields.io/github/stars/3rg1s/CVE-2016-2098.svg) ![forks](https://img.shields.io/github/forks/3rg1s/CVE-2016-2098.svg)
+
+- [https://github.com/Debalinax64/CVE-2016-2098](https://github.com/Debalinax64/CVE-2016-2098) :  ![starts](https://img.shields.io/github/stars/Debalinax64/CVE-2016-2098.svg) ![forks](https://img.shields.io/github/forks/Debalinax64/CVE-2016-2098.svg)
 
 ## CVE-2016-2067
  drivers/gpu/msm/kgsl.c in the MSM graphics driver (aka GPU driver) for the Linux kernel 3.x, as used in Qualcomm Innovation Center (QuIC) Android contributions for MSM devices and other products, mishandles the KGSL_MEMFLAGS_GPUREADONLY flag, which allows attackers to gain privileges by leveraging accidental read-write mappings, aka Qualcomm internal bug CR988993.
@@ -1407,6 +1414,8 @@
 - [https://github.com/0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner) :  ![starts](https://img.shields.io/github/stars/0xn0ne/weblogicScanner.svg) ![forks](https://img.shields.io/github/forks/0xn0ne/weblogicScanner.svg)
 
 - [https://github.com/zhzhdoai/Weblogic_Vuln](https://github.com/zhzhdoai/Weblogic_Vuln) :  ![starts](https://img.shields.io/github/stars/zhzhdoai/Weblogic_Vuln.svg) ![forks](https://img.shields.io/github/forks/zhzhdoai/Weblogic_Vuln.svg)
+
+- [https://github.com/BabyTeam1024/CVE-2016-0638](https://github.com/BabyTeam1024/CVE-2016-0638) :  ![starts](https://img.shields.io/github/stars/BabyTeam1024/CVE-2016-0638.svg) ![forks](https://img.shields.io/github/forks/BabyTeam1024/CVE-2016-0638.svg)
 
 ## CVE-2016-0199
  Microsoft Internet Explorer 9 through 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka &quot;Internet Explorer Memory Corruption Vulnerability,&quot; a different vulnerability than CVE-2016-0200 and CVE-2016-3211.
